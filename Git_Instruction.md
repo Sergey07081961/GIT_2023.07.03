@@ -136,3 +136,4 @@ git branch
 ```
 git checkout <название ветки>
 ```
+
